@@ -1,13 +1,8 @@
 {
-  "name": "rt3",
+  "name": "modulo-operacoes-ts",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "main": "out/operacoesMatematicas.js",
+  "types": "out/operacoesMatematicas.d.ts",
+  "type": "commonjs",
+  "license": "ISC"
 }
